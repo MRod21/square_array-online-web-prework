@@ -1,5 +1,5 @@
-def square_array(numbers)
-  numbers = []
+def square_array(array)
+  array = []
   
  
 end
